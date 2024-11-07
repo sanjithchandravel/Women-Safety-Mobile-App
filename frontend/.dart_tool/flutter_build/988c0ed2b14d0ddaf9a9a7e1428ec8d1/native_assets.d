@@ -1,0 +1,1 @@
+ C:\\Users\\Sanjith\\AndroidStudioProjects\\women_safety\\.dart_tool\\flutter_build\\988c0ed2b14d0ddaf9a9a7e1428ec8d1\\native_assets.yaml: 
